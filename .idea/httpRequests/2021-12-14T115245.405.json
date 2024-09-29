@@ -1,0 +1,6 @@
+{
+  "timestamp": "2021-12-14T03:52:45.573+00:00",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "path": "/order/1"
+}

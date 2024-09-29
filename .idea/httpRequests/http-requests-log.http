@@ -1,0 +1,413 @@
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 20,"messageType": 2}
+
+<> 2021-12-19T102413.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-19T102407.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-17T120220.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 20,"messageType": 2}
+
+<> 2021-12-17T115910.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-17T115900.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+{"userId": 1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-17T111545.400.html
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-17T111416.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-17T111412.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-17T103210.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-17T103204.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-17T103039.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-17T103013.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 20,"messageType": 2}
+
+<> 2021-12-16T085104.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-16T085102.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 20,"messageType": 2}
+
+<> 2021-12-16T084706.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-16T084704.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-16T083733.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-16T083656.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-16T083433.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-16T083214.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 20,"messageType": 2}
+
+<> 2021-12-16T083152.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 20,"messageType": 2}
+
+<> 2021-12-16T083031.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-16T083028.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 20,"messageType": 2}
+
+<> 2021-12-16T083023.200.json
+
+###
+
+GET http://localhost:10080/points/1470643539926065152
+
+<> 2021-12-14T023531.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-14T023518.200.json
+
+###
+
+GET http://localhost:10070/order/1
+
+<> 2021-12-14T115615.200.json
+
+###
+
+GET http://localhost:10070/order/1
+
+<> 2021-12-14T115518.500.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 20,"messageType": 2}
+
+<> 2021-12-14T115400.200.json
+
+###
+
+GET http://localhost:10070/order/1
+
+<> 2021-12-14T115355.500.json
+
+###
+
+GET http://localhost:10080/points/1470602548342956032
+
+<> 2021-12-14T115343.200.json
+
+###
+
+POST http://localhost:10080/points/1470602548342956032
+
+<> 2021-12-14T115330.405.json
+
+###
+
+POST http://localhost:10000/points/1470602548342956032
+
+###
+
+POST http://localhost:10070/points/1470602548342956032
+
+<> 2021-12-14T115253.404.json
+
+###
+
+POST http://localhost:10070/order/1
+
+<> 2021-12-14T115245.405.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-14T115225.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-14T115049.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-14T114701.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-14T113208.500.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-14T112812.500.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-14T112540.500.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-14T110417.500.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2021-12-14T110223.500.json
+
+###
+
+POST http://localhost:10070/order?userId=11&orderAmout=10&messageType=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-06-04T053640.200.json
+
+###
+
+POST http://localhost:10070/order?userId=11&orderAmout=10&messageType=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-06-04T053639-1.200.json
+
+###
+
+POST http://localhost:10070/order?userId=11&orderAmout=10&messageType=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-06-04T053639.200.json
+
+###
+
+POST http://localhost:10070/order?userId=11&orderAmout=10&messageType=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-06-04T053638.200.json
+
+###
+
+POST http://localhost:10070/order?userId=11&orderAmout=10&messageType=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-06-04T053637.200.json
+
+###
+
+POST http://localhost:10070/order?userId=11&orderAmout=10&messageType=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-06-04T053636.200.json
+
+###
+
+POST http://localhost:10070/order?userId=11&orderAmout=10&messageType=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-06-04T053606.200.json
+
+###
+

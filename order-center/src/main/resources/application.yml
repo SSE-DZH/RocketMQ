@@ -1,0 +1,46 @@
+server:
+  port: 10070
+
+
+# 数据源配置
+spring:
+  application:
+    name: order
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/order?characterEncoding=utf8&serverTimezone=UTC
+    username: root
+    password: root
+
+rocketmq:
+  producer:
+    isOnOff: on
+    groupName: order_group
+    namesrvAddr: 127.0.0.1:9876
+    maxMessageSize: 4096
+    sendMsgTimeout: 3000
+    retryTimesWhenSendFailed: 2
+  consumer:
+    isOnOff: on
+    groupName: order_group
+    namesrvAddr: 127.0.0.1:9876
+    topics: order~*
+    consumeThreadMin: 20
+    consumeThreadMax: 64
+    consumeMessageBatchMaxSize: 1
+
+knife4j:
+  enable: true
+  openapi:
+    title: 管理接口文档
+    description: "管理接口文档"
+    email: sse_d@qq.com
+    concat: zhiend
+    url: http://localhost:10070/doc.html
+    version: v1.0.0
+    group:
+      default:
+        group-name: default
+        api-rule: package
+        api-rule-resources:
+          - com.zhiend.netflix.controller
