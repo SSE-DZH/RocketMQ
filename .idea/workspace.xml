@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdce4fd4-788a-4db0-b80f-a94d38dfc381" name="Default Changelist" comment="项目配置完成，加入swagger">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-center/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-center/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/points-center/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/points-center/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="bdce4fd4-788a-4db0-b80f-a94d38dfc381" name="Default Changelist" comment="MQ服务加载" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -591,6 +587,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CodeGenerationUtil.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.OrderCenterApplication.executor": "Run",
@@ -801,7 +802,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.PointsCenterApplication">
+  <component name="RunManager" selected="Application.CodeGenerationUtil">
     <configuration name="CodeGenerationUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.framework.utils.CodeGenerationUtil" />
       <module name="framework" />
@@ -878,11 +879,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CodeGenerationUtil" />
         <item itemvalue="HTTP Request.api-requests#2" />
         <item itemvalue="HTTP Request.api-requests#1" />
         <item itemvalue="HTTP Request.api-requests#4" />
         <item itemvalue="HTTP Request.api-requests#3" />
-        <item itemvalue="Application.CodeGenerationUtil" />
       </list>
     </recent_temporary>
   </component>
@@ -920,7 +921,7 @@
       <workItem from="1726215111658" duration="17000" />
       <workItem from="1727575974997" duration="332000" />
       <workItem from="1727576580750" duration="5607000" />
-      <workItem from="1727590779975" duration="337000" />
+      <workItem from="1727590779975" duration="1444000" />
     </task>
     <task id="LOCAL-00001" summary="项目配置">
       <option name="closed" value="true" />
@@ -946,7 +947,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727590791083</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="MQ服务加载">
+      <option name="closed" value="true" />
+      <created>1727591269562</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727591269562</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1014,7 +1023,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="项目配置" />
     <MESSAGE value="项目配置完成，加入swagger" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目配置完成，加入swagger" />
+    <MESSAGE value="MQ服务加载" />
+    <option name="LAST_COMMIT_MESSAGE" value="MQ服务加载" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

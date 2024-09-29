@@ -1,5 +1,31 @@
 POST http://localhost:10070/order
 Content-Type: application/json; charset=UTF-8
+Content-Length: 46
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{"userId":1,"orderAmout": 20,"messageType": 2}
+
+<> 2024-09-29T144727.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
+Content-Length: 45
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{"userId":1,"orderAmout": 2,"messageType": 1}
+
+<> 2024-09-29T144453.200.json
+
+###
+
+POST http://localhost:10070/order
+Content-Type: application/json; charset=UTF-8
 
 {"userId":1,"orderAmout": 20,"messageType": 2}
 
@@ -392,22 +418,6 @@ Accept: */*
 Cache-Control: no-cache
 
 <> 2021-06-04T053637.200.json
-
-###
-
-POST http://localhost:10070/order?userId=11&orderAmout=10&messageType=0
-Accept: */*
-Cache-Control: no-cache
-
-<> 2021-06-04T053636.200.json
-
-###
-
-POST http://localhost:10070/order?userId=11&orderAmout=10&messageType=1
-Accept: */*
-Cache-Control: no-cache
-
-<> 2021-06-04T053606.200.json
 
 ###
 
